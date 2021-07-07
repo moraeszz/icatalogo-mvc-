@@ -1,0 +1,9 @@
+{
+    "name": "rmoraes/icatalogo-mvc",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\" : "App/"
+        }
+    }
+}
